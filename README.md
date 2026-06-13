@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-magia-de-tu-sonrisa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for La magia de tu sonrisa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-magia-de-tu-sonrisa/) |
+| **Get License** | [Obtain a Music License for La magia de tu sonrisa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-magia-de-tu-sonrisa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> La magia de tu sonrisa me tiene volando high
+> Brillando por todo Madrid, you're the only one in sight
+> Con ese fronteo salvaje, mami, tú me quitas la paz
+> Esta noche es para los dos, ya no miremos hacia atrás
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
