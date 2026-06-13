@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - La magia de tu sonrisa
+
+This log tracks the cryptographic history and versioning for the song **La magia de tu sonrisa** (la-magia-de-tu-sonrisa).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T05:13:04.552554 | `v1` | `d841ea36c10ad1a24aef4b1d924346cefbd3e01706e27c8cbcddd663fe4a9a1d` | `26e830e055d62e4c22b77e51f7b69847c28d8c34048ab70a4d28a0001e484a58` | `2026-06-14_la-magia-de-tu-sonrisa-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
